@@ -1,0 +1,142 @@
+
+a:visited, a:active, a:link {
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+.li´s{
+    border-bottom-style: solid;
+    padding-bottom:5px;
+    margin-bottom: 2px;
+}
+
+.divDatosPers{
+    width: 900px;
+    padding: 8px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: rgba(255, 35, 120,0.2);
+
+}
+
+#mdp{
+    text-align: center;
+    border-style: dashed;
+    border-width: thin;
+    background-color: #cbc8ff;
+    background-size: contain;
+
+
+}
+
+.divIndex{
+    font-family: fantasy;
+    font-size: 14px;
+    border-style: solid;
+    border-width: 3px;
+    background-color: #f7e2f7;
+    padding: 10px;
+    width: 250px;
+    border-image: url(../Images/pattern.png) 30 30 repeat;
+}
+
+.ul_Index{
+    border-style: dashed;
+    border-left-style: none;
+    border-right-style: none;
+
+
+}
+.m_hover:hover{
+    text-shadow: 1px 1px 2px rgb(206, 236, 255 ), 0 0 25px rgb(206, 236, 255 ), 0 0 5px darkblue;
+}
+
+#xdIndex{
+    border-style: solid;
+    border-color: highlight ;
+    margin-right: 300px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 480px;
+    float: right;
+    border-radius: 5px;
+    
+    
+}
+
+.PiePag{
+
+    text-align: center;
+    font-family: sans-serif;
+    border-top-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin-top: 12px;
+    padding-top: 0px;
+
+}
+
+#pie{
+    font-family: monospace;
+    font-size: 14px;
+}
+
+#divPasatiempos{
+    font-family: monospace;
+    font-size: 14px;
+    width: 700px;
+
+
+}
+
+.h2PT{
+    background-color: #cbc8ff;
+    border-radius: 10px 0px 10px 0px;
+    padding: 5px;
+    width: 150px;
+}
+
+.pPt{
+    background-color: #f7e2f7;
+}
+
+.imagen-fondo{
+
+    background-image: url('../Images/Fondo.jpg');
+    background-size: cover;
+}
+
+#hornear,#deporte,#videojuego,#novia{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+}
+
+table{
+    background-color: rgba(255, 35, 120,0.3);
+    padding: 3px;
+}
+
+.tdTrailer{
+    padding: 3px;
+
+}
+#peliId{
+    font-family: monospace;
+}
+
+section{
+    display: block;
+    background-color: rgba( 255, 230, 254,0.8 );
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px 0px 10px 10px;
+}
+
+#mpt{
+    margin-left: 10px;
+}
